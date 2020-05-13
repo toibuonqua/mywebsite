@@ -6,7 +6,9 @@ body{
     width: 100%;
     margin: 0px;
 }
-style{
+.style{
+    display: flex;
+    justify-content: center;
     font-family: 'Roboto Slab';
     color: white;
     text-align: center;
