@@ -10,6 +10,9 @@ body{
     display: flex;
     justify-content: center;
     font-family: 'Roboto Slab';
-    color: white;
+    color: #d47878;
     text-align: center;
+}
+.shadow{
+    text-shadow: 2px 2px 0 black;
 }
