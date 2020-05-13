@@ -1,0 +1,13 @@
+body{
+    background-image: url("https://i.pinimg.com/564x/94/9b/15/949b1516074941f8ceee459db7f78f13.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+}
+style{
+    font-family: 'Roboto Slab';
+    color: white;
+    text-align: center;
+}
