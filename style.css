@@ -73,14 +73,14 @@
 .circle-border {
   width: 150px;
   height: 150px;
-  padding: 3px;
+  padding: 4px;
   display: flex;
   justify-content: center;
   align-items: center;
   border-radius: 50%;
   background: rgb(63,249,220);
   background: linear-gradient(0deg, rgba(63,249,220,0.1) 33%, rgba(63,249,220,1) 100%);
-  animation: spin .8s linear 0s infinite;
+  animation: spin 1s linear 0s infinite;
 }
 
 .circle-core {
@@ -90,8 +90,8 @@
   border-radius: 50%;
 }
 .spinner-box {
-  width: 300px;
-  height: 300px;
+  width: 200px;
+  height: 200px;
   display: flex;
   justify-content: center;
   align-items: center;
